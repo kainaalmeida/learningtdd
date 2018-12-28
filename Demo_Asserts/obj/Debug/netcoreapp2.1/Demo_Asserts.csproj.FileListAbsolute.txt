@@ -1,0 +1,9 @@
+C:\Users\Kaina\source\repos\CourseTest\Demo_Asserts\bin\Debug\netcoreapp2.1\Demo_Asserts.deps.json
+C:\Users\Kaina\source\repos\CourseTest\Demo_Asserts\bin\Debug\netcoreapp2.1\Demo_Asserts.dll
+C:\Users\Kaina\source\repos\CourseTest\Demo_Asserts\bin\Debug\netcoreapp2.1\Demo_Asserts.pdb
+C:\Users\Kaina\source\repos\CourseTest\Demo_Asserts\obj\Debug\netcoreapp2.1\Demo_Asserts.csproj.CoreCompileInputs.cache
+C:\Users\Kaina\source\repos\CourseTest\Demo_Asserts\obj\Debug\netcoreapp2.1\Demo_Asserts.AssemblyInfoInputs.cache
+C:\Users\Kaina\source\repos\CourseTest\Demo_Asserts\obj\Debug\netcoreapp2.1\Demo_Asserts.AssemblyInfo.cs
+C:\Users\Kaina\source\repos\CourseTest\Demo_Asserts\obj\Debug\netcoreapp2.1\Demo_Asserts.dll
+C:\Users\Kaina\source\repos\CourseTest\Demo_Asserts\obj\Debug\netcoreapp2.1\Demo_Asserts.pdb
+C:\Users\Kaina\source\repos\CourseTest\Demo_Asserts\obj\Debug\netcoreapp2.1\Demo_Asserts.csprojAssemblyReference.cache

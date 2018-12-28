@@ -1,0 +1,9 @@
+C:\Users\Kaina\source\repos\CourseTest\Calculadora\bin\Debug\netcoreapp2.1\Calculadora.deps.json
+C:\Users\Kaina\source\repos\CourseTest\Calculadora\bin\Debug\netcoreapp2.1\Calculadora.dll
+C:\Users\Kaina\source\repos\CourseTest\Calculadora\bin\Debug\netcoreapp2.1\Calculadora.pdb
+C:\Users\Kaina\source\repos\CourseTest\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Kaina\source\repos\CourseTest\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Kaina\source\repos\CourseTest\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.AssemblyInfo.cs
+C:\Users\Kaina\source\repos\CourseTest\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.dll
+C:\Users\Kaina\source\repos\CourseTest\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.pdb
+C:\Users\Kaina\source\repos\CourseTest\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.csprojAssemblyReference.cache
